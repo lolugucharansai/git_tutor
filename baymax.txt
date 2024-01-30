@@ -1,0 +1,4 @@
+on a scale of 1 to 10 how would you rate your pain.
+let me scan you.
+scan complete.
+you seem to be alright physically.
